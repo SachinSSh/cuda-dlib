@@ -124,6 +124,3 @@ cuda-face-recognition/
 └── examples/               
 ```
 
----
-
-**Note**: This project requires NVIDIA GPU with CUDA support. CPU-only version available in the `cpu-only` branch.
